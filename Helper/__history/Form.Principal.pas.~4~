@@ -1,0 +1,63 @@
+unit Form.Principal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls, System.StrUtils;
+
+type
+  TStringHelperLocal = record helper for string
+    private
+    public
+      function Reverse : string;
+      procedure Avisar;
+  end;
+
+  TForm1 = class(TForm)
+    Panel1: TPanel;
+    Panel2: TPanel;
+    MemoLog: TMemo;
+    BtnReverse: TButton;
+    BtnAviso: TButton;
+    BtnUnzip: TButton;
+    BtnZip: TButton;
+    Button1: TButton;
+    Button2: TButton;
+    procedure BtnAvisoClick(Sender: TObject);
+    procedure BtnReverseClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TStringHelperLocal.Avisar;
+begin
+  Application.MessageBox(PChar(Self), 'Aviso!', MB_DEFBUTTON1 + MB_OK + MB_ICONINFORMATION)
+end;
+
+procedure TForm1.BtnAvisoClick(Sender: TObject);
+begin
+  'Este é um aviso!'.Avisar;
+end;
+
+function TStringHelperLocal.Reverse: string;
+begin
+  Result := ReverseString(self);
+end;
+
+procedure TForm1.BtnReverseClick(Sender: TObject);
+begin
+  var teste : string := 'Testetor';
+  MemoLog.Lines.Add(teste.Reverse);
+end;
+
+end.
