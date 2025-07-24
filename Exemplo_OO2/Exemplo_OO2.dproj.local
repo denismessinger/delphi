@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/22 19:42:18.427,=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 19:44:48.287,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Form.Principal.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 19:44:48.287,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Form.Principal.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/22 19:45:52.658,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Exemplo_OO2.dproj=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2023/06/22 19:51:28.419,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit2.pas</Transaction>
+    <Transaction>2023/06/22 19:51:35.693,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Form.Cadastro.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit2.dfm</Transaction>
+    <Transaction>2023/06/22 19:51:35.693,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Form.Cadastro.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit2.pas</Transaction>
+    <Transaction>2023/06/22 19:58:38.154,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 20:00:46.205,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Classe.InfAnimal.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 20:15:43.401,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 20:15:58.115,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Classe.Mamiferos.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 20:57:16.582,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 20:57:24.514,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Classe.Oviparo.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
