@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/18 20:52:20.297,=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 21:31:43.777,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\BaseThreads.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/18 21:31:43.777,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\BaseThreads.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 21:34:07.530,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Base.dproj=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2023/06/18 21:40:55.040,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\BaseThreads.pas=</Transaction>
+    <Transaction>2023/06/18 21:41:00.044,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 21:41:31.355,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Form.Principal.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 21:41:31.355,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Form.Principal.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit1.dfm</Transaction>
+    <Transaction>2023/06/19 19:26:18.007,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit2.pas</Transaction>
+    <Transaction>2023/06/19 19:26:40.784,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Form.ThreadEcept.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit2.dfm</Transaction>
+    <Transaction>2023/06/19 19:26:40.784,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Form.ThreadEcept.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit2.pas</Transaction>
+    <Transaction>2023/06/19 21:20:25.180,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit3.pas</Transaction>
+    <Transaction>2023/06/19 21:21:11.766,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Form.CriticalSection.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit3.pas</Transaction>
+    <Transaction>2023/06/19 21:21:11.766,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Form.CriticalSection.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\BaseThreads\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
