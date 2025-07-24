@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{E213667A-877E-42B0-B3CC-93B5094F201C}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="TeseComponente.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TeseComponente">
+        <MSBuild Projects="TeseComponente.dproj"/>
+    </Target>
+    <Target Name="TeseComponente:Clean">
+        <MSBuild Projects="TeseComponente.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TeseComponente:Make">
+        <MSBuild Projects="TeseComponente.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TeseComponente"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TeseComponente:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TeseComponente:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

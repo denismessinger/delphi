@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/24 17:11:21.000.708,=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/24 17:11:49.000.408,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\ExemplosComponentes.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/24 17:11:49.000.408,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\ExemplosComponentes.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/24 17:12:09.000.523,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\TeseComponente.dproj=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2023/07/25 20:41:30.121,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 20:50:40.925,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Classe.Base.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 20:53:21.165,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 21:25:28.260,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Classe.Patrimonio.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 21:25:43.380,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 21:35:02.205,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Classe.Imovel.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 21:35:16.950,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 21:43:59.121,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Classe.Veiculo.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 22:04:25.503,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 22:04:34.159,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Classe.Pessoas.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/27 21:50:31.727,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit2.pas</Transaction>
+    <Transaction>2023/07/27 21:50:45.202,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Frame.Cliente.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit2.pas</Transaction>
+    <Transaction>2023/07/27 21:50:45.202,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Frame.Cliente.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit2.dfm</Transaction>
+    <Transaction>2023/07/27 21:53:33.866,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Frame.Cliente.pas=</Transaction>
+    <Transaction>2023/07/27 21:53:56.486,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/27 21:57:22.664,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Frame.Cliente.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.pas</Transaction>
+    <Transaction>2023/07/27 21:57:22.664,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Frame.Cliente.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Componentes\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
