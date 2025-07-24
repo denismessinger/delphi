@@ -6,7 +6,7 @@ Este repositório contém **exemplos práticos em Delphi** feitos durante o curs
 
 ## 📁 Projetos incluídos
 
-### 1. `threads`
+### 1. `basethreads`
 Exemplo básico de uso de **threads** em Delphi. Demonstra como criar e gerenciar tarefas paralelas para melhorar a performance de aplicações que executam operações demoradas.
 
 ### 2. `componentes`
@@ -45,3 +45,5 @@ Exemplo de **helpers**, que estendem funcionalidades de tipos existentes no Delp
 2. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+3. Navegue até a pasta do exemplo desejado
+4. Abra o arquivo .dproj correspondente e execute o projeto (F9)
