@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/11 16:01:04.000.336,=C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/11 16:04:32.000.951,C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\ProjetosDelphi.pas</Transaction>
+    <Transaction>2023/06/11 16:04:32.000.951,C:\Users\denis\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\ProjetosDelphi.dfm</Transaction>
+    <Transaction>2023/06/11 16:04:43.000.448,C:\Users\denis\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\ModeloConversor.dproj</Transaction>
+    <Transaction>2023/06/11 18:07:27.000.529,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/06/11 18:07:46.000.095,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Unit1.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Conversor.Moeda.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ProjetosDelphi.pas"/>
+    <File Path="ProjetosDelphi.dfm"/>
+    <File Path="Conversor.Moeda.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
