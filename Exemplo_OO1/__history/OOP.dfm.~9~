@@ -1,0 +1,47 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'OOP'
+  ClientHeight = 407
+  ClientWidth = 628
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 100
+    Height = 407
+    Align = alLeft
+    TabOrder = 0
+    ExplicitHeight = 406
+    object BtnVisualizar: TButton
+      AlignWithMargins = True
+      Left = 4
+      Top = 378
+      Width = 92
+      Height = 25
+      Align = alBottom
+      Caption = 'Visualizar'
+      TabOrder = 0
+      OnClick = BtnVisualizarClick
+      ExplicitTop = 377
+    end
+  end
+  object MemoLog: TMemo
+    AlignWithMargins = True
+    Left = 103
+    Top = 3
+    Width = 522
+    Height = 401
+    Align = alClient
+    Color = clScrollBar
+    TabOrder = 0
+    ExplicitWidth = 518
+    ExplicitHeight = 400
+  end
+end

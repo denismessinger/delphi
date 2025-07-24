@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/18 12:37:17.552,=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO1\Unit3.pas</Transaction>
+    <Transaction>2023/06/18 14:20:15.705,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO1\Form.PessoaBD.pas=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO1\Unit3.pas</Transaction>
+    <Transaction>2023/06/18 14:20:15.705,C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO1\Form.PessoaBD.dfm=C:\Users\denis\Documents\Embarcadero\Studio\Projetos_Delphi\Exemplo_OO1\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

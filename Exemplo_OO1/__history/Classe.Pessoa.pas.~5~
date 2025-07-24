@@ -1,0 +1,23 @@
+unit Classe.Pessoa;
+
+interface
+
+uses
+  System.Sysutils, System.DateUtils;
+
+type
+  TPessoa = class
+  strict private
+    FSaldo : Currency;
+    FDataNascimento : TDate;
+  strict protected
+    FCodigo : Integer;
+  public
+    property Codigo : Integer read FCodigo write FCodigo;
+    property Saldo : Currency read FSaldo write FSaldo;
+    property DataNascimento : TDate read FDataNascimento write FDataNascimento;
+  end;
+
+implementation
+
+end.
